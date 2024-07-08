@@ -2,6 +2,15 @@ body {
 	background-color: #424242;
 	font-family: Tahoma;
 }
+.button {
+	display: inline-block;
+	margin: 2px;
+	width: 42px;
+	height: 42px;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 4px;
+}
 
 .container {
 	display: flex;
@@ -43,15 +52,7 @@ body {
 	font-weight: 400;
 }
 
-.button {
-	display: inline-block;
-	margin: 2px;
-	width: 42px;
-	height: 42px;
-	font-size: 16px;
-	font-weight: bold;
-	border-radius: 4px;
-}
+
 
 .mathButtons {
 	margin: 2px 2px 6px 2px;
